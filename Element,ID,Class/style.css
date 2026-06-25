@@ -1,0 +1,22 @@
+/* 1. Element Selector: Applies to all <p> elements by default */
+p {
+  color: #374151;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* 2. Class Selector: Applies only to elements with class="highlight" */
+.highlight {
+  background-color: #fef3c7;
+  color: #92400e;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+/* 3. ID Selector: Applies only to the unique element with id="main-header" */
+#main-header {
+  background-color: #111827;
+  color: #ffffff;
+  padding: 20px;
+  margin-bottom: 20px;
+}
