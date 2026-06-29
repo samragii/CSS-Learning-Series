@@ -1,0 +1,16 @@
+.site-header {
+    background-color:#f9fafb;
+    border:2px solid #e5e7eb;
+    max-width:800px;
+    padding:24px;
+    margin:20px auto;
+   
+}
+.site-header h1{
+    color:#111827;
+    margin-bottom:8px;
+}
+.site-header p{
+    color:#4b5563;
+    margin:0px;
+}
