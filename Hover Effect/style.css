@@ -1,0 +1,15 @@
+.nav-list{
+    list-style:none;
+    padding:0px;
+}
+.nav-list a{
+    text-decoration:none;
+    display:inline-block;
+    padding:8px 12px;
+}
+    
+.nav-list a:hover{
+    background-color:#1f2937;
+    cursor:pointer;
+    color:blue;
+}
